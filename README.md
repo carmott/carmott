@@ -1,5 +1,5 @@
 # 💫 About Me:
-💙 I'm currently working on frontend development projects<br>🌀  I'm looking to colaborate with  software, frontend and web developers<br>💠 I'm currently learning Angular and Vue.js<br>💙 Fun fact - I'm a cool introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
+💙 I'm currently working on frontend development projects<br>🌀   I'm looking to colaborate with  software, frontend and web developers<br>💠 I'm currently learning Angular and Vue.js<br>💙 Fun fact - I'm a cool introvert who's sense of humor is based on dad jokes ... but i'm still cool : )
 
 
 # 💻 Tech Stack:
